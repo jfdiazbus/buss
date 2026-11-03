@@ -1,0 +1,1 @@
+{"name":"buss-chat","version":"1.0.0","private":true,"description":"A calm desktop home for your conversations","main":"src/desktop.cjs","scripts":{"start":"node src/server.cjs","desktop":"node src/launch.cjs","test":"node --test"},"devDependencies":{"electron":"^42.0.0"}}
